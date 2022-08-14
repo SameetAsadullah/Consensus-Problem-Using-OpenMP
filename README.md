@@ -1,7 +1,7 @@
 <h1 align="center">Consensus Problem in an OpenMP Program</h1>
 
 ### Description
-Program coded in `C++ language` to solve the `Consensus Problem` between `Multiple Threads`.
+Program coded in `C++ language` to solve the `Consensus Problem` between `Multiple Threads` using `OpenMP`.
 
 ### Manual
 1) Use following command to `Compile the Code`:
