@@ -1,4 +1,4 @@
-<h1 align="center">Consensus Problem in an OpenMP Program</h1>
+<h1 align="center">Consensus Problem using OpenMP</h1>
 
 ### Description
 Program coded in `C++ language` to solve the `Consensus Problem` between `Multiple Threads` using `OpenMP`.
